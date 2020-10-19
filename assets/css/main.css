@@ -1443,7 +1443,7 @@ input, select, textarea {
 				opacity: 0;
 			}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 10px) {
 
 			#header .content p br {
 				display: none;
@@ -1451,7 +1451,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 10px) {
 
 			#header > * {
 				margin-top: 2rem;
